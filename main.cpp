@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     char name[30];
-    char pizza1[]="chicken faz  ita",pizza2[]="chicken bbq",pizza3[]="peri peri",pizza4[]="creamy max";
+    char pizza1[]="chicken fazzita",pizza2[]="chicken bbq",pizza3[]="peri peri",pizza4[]="creamy max";
     char roll1[]="chicken chatni roll",roll2[]="chicken mayo roll",roll3[]="veg roll";
     char bur1[]="zinger burger",bur2[]="chicken burger",bur3[]="beef burger";
     char sand1[]="grill sandwich",sand2[]="extra cheese sandwich",sand3[]="chicken sandwich";
